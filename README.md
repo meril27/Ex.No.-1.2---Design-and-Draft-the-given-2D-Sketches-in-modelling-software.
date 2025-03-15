@@ -41,8 +41,8 @@ Name: MERIL GOLDLINA A   Ref.No: 212224040289
 
  ## OUTPUT
 
- ![Screenshot 2025-03-07 233804](https://github.com/user-attachments/assets/1c6d8f9f-9599-4dc7-812e-c05c929eb11d)
+ ![Screenshot 2025-03-15 231106](https://github.com/user-attachments/assets/e7663c07-189f-4e73-b67a-2c90464c3fc2)
 
- 
+
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
